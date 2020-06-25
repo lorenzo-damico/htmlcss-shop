@@ -30,3 +30,11 @@
 .rossa {
   background-color: red;
 }
+
+.cuore {
+  color: red;
+  font-size: 40px;
+  position: absolute;
+  left: 138px;
+  bottom: 1%
+}

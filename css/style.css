@@ -36,5 +36,10 @@
   font-size: 40px;
   position: absolute;
   left: 138px;
-  bottom: 1%
+  bottom: 1%;
+  display: none;
+}
+
+.prodotti:hover .cuore {
+  display: block;
 }

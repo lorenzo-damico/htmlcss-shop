@@ -14,4 +14,19 @@
 
 .prodotti {
   display: inline-block;
+  position: relative;
+}
+
+.etichetta {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.verde {
+  background-color: green;
+}
+
+.rossa {
+  background-color: red;
 }

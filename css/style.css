@@ -9,7 +9,7 @@
 }
 
 .riga {
-  margin: 15px;
+  margin-bottom: 20px;
 }
 
 .prodotti {
@@ -35,8 +35,8 @@
   color: red;
   font-size: 40px;
   position: absolute;
-  left: 138px;
-  bottom: 1%;
+  width: 100%;
+  bottom: 10px;
   display: none;
 }
 
